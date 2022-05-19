@@ -49,3 +49,8 @@ Como ejemplo, para comprobar que se instala correctamente Wordpress en el compos
 
 ![](img/wordpress.png)
 
+---
+
+Una vez terminado, para cerrar el compose se debe realizar:
+
+    docker compose down
